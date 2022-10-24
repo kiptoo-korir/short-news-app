@@ -1,16 +1,8 @@
-# news_shorts
+# shorts-news-app
 
-A new Flutter project.
+Simple flutter app consuming inshorts news unofficial API [Inshorts-News-API](https://github.com/cyberboysumanjay/Inshorts-News-API)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot 1](/flutter_01.png?raw=true "Screenshot 1")
+![App Screenshot 2](/flutter_02.png?raw=true "Screenshot 2")
+![App Screenshot 3](/flutter_03.png?raw=true "Screenshot 3")
+![App Screenshot 4](/flutter_04.png?raw=true "Screenshot 4")
