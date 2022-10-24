@@ -64,6 +64,9 @@ class _NewsItemsListState extends State<NewsItemsList> {
                           newsItems[i].title.toString(),
                           style: const TextStyle(fontWeight: FontWeight.bold),
                         ),
+                        subtitle: Text(
+                            "${newsItems[i].time.toString()}, ${newsItems[i].date.toString()} \n"
+                            "${newsItems[i].author.toString()}"),
                       ),
                     ],
                   ),
